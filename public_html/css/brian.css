@@ -1,8 +1,21 @@
-#featVid {
-    max-height: auto;
-    max-width: 1080px;
+@media all and ( min-width: 560px ) {
+    .div_style { 
+        width:1080px;
+        padding-bottom:608px !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+    }
+}
+
+.featVid {
+    max-height: 600px !important;
+    max-width: 1080px !important;
+    position: fixed !important;
+    
     
     /*
+    max-height: 608px !important;
+    max-width: auto !important;
     padding-bottom: 0px;
     max-width: 1080px;
     */

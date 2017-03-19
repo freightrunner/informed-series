@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:jwplayer="http://rss.jwpcdn.com/">
+<channel>
+
+
+
+         <item>
+      <title>Commercial</title>
+    <description>rev</description>
+    <jwplayer:image>images/demo_env_01.jpg</jwplayer:image>
+    <jwplayer:source file="https://player.vimeo.com/external/204543987.hd.mp4?s=81938dca618122c145dd602eddb5a8baeba40a38&profile_id=119?autoplay=1" label="360p" />
+    
+    <jwplayer:track file="demo.captions.vtt" label="English" />
+    <jwplayer:track file="demo.captions.vtt" label="Français" />
+  </item>
+
+
+ 
+       
+  
+
+</channel>
+</rss>
